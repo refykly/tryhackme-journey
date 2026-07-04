@@ -14,7 +14,7 @@ This repository contains my walkthroughs, notes, and practical exercises from ro
 
 | Path | Status | Rooms Completed |
 |:---|:---:|:---:|
-| **Pre-Security** | 🔄 In Progress | 0 / 14 |
+| **Pre-Security** | 🔄 In Progress | 0 / 31 |
 | **Cyber Security 101** | ⏳ Pending | 0 / ~30 |
 | **Pentester** | ⏳ Pending | 0 / ~50 |
 
